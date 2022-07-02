@@ -829,3 +829,24 @@ body{
   margin-top: 17px;
   margin-left: 2px;
 }
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #fff;
+  text-align: center;
+}
+.footer p {
+text-decoration: none;
+color: #000;
+}
+.footer a {
+  text-decoration: none;
+  color: #E80000;
+}
+.footer a:hover {
+  text-decoration: underline;
+  color: green;
+}
